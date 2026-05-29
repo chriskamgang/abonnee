@@ -3,9 +3,9 @@
 //  ESTUAIRE ABONNEES - Configuration
 // ============================================================
 
-// PeakSMM API
-define('PEAKSMM_API_URL', 'https://peaksmm.com/api/v2');
-define('PEAKSMM_API_KEY', 'VOTRE_CLE_PEAKSMM_ICI');
+// Shaker SMM API
+define('PEAKSMM_API_URL', 'https://shaker.co.ke/api/v2');
+define('PEAKSMM_API_KEY', 'VOTRE_CLE_SHAKER_ICI');
 
 // Freemopay API
 define('FREEMOPAY_BASE_URL', 'https://api-v2.freemopay.com');

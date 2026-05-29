@@ -23,7 +23,7 @@ function peaksmm_add_order(int $service, string $url, int $quantity): array {
     return peaksmm_request([
         'action'   => 'add',
         'service'  => $service,
-        'url'      => $url,
+        'link'     => $url,
         'quantity' => $quantity,
     ]);
 }
